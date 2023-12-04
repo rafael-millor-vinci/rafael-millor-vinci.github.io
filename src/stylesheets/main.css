@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(244, 231, 247);
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+}
